@@ -20,6 +20,6 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Rachel](/Rachel.md)
 
-[Tony](/Tony.md)
+[Tony](Tony.md)
 
 [Nestor Chacin](/nestor.md)
