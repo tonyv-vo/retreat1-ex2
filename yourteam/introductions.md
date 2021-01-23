@@ -11,8 +11,15 @@ This repository includes information about our team. To view information on a te
 
 Make sure to include a quick description about your team.
 
+The team is quite nice! I'm such a noob - Nestor!
+
 ## Team Members
 
 Links to each team member's bio page. Add a link for each team member.
 
-[Tony Vo](/Tony.md)
+
+[Rachel](/Rachel.md)
+
+[Tony](/Tony.md)
+
+[Nestor Chacin](/Nestor.md)
