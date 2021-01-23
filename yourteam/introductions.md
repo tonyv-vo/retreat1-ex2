@@ -18,8 +18,8 @@ The team is quite nice! I'm such a noob - Nestor!
 Links to each team member's bio page. Add a link for each team member.
 
 
-[Rachel](/Rachel.md)
+[Rachel](Rachel.md)
 
 [Tony](Tony.md)
 
-[Nestor Chacin](/nestor.md)
+[Nestor Chacin](nestor.md)
